@@ -45,7 +45,7 @@ const productos = [
     id: "7",
     nombre: "Zapatillas Joma 3",
     precio: 119999,
-    img: "../img/zapatillasjoma3",
+    img: "../img/zapatillasjoma3.webp",
     idCat: "3",
   },
   {

@@ -13,7 +13,7 @@ const ItemDetail = ({ id, nombre, precio, img }) => {
         Esse illo obcaecati consequatur quod aspernatur minus, tempora
         voluptatibus asperiores eum!
       </p>
-      <img src="{img}" alt="{nombre}" />
+      <img src={img} alt={nombre} />
     </div>
   );
 };
