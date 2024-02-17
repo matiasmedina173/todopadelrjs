@@ -6,7 +6,10 @@ const NavBar = () => {
   return (
     <header>
       <Link to={"/"}>
-        <h1>Todo Padel</h1>
+        <img
+          src="https://play-lh.googleusercontent.com/HmUJww9_g52pm6igFkDt3a7jrzxf9YESW12mZrJq1eFV7JF1oTkB66duhrkuk7QUbsk"
+          alt="todo padel"
+        />
       </Link>
 
       <nav>

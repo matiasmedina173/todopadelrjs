@@ -3,9 +3,9 @@ header {
   background-color: #333;
   color: #fff;
   padding: 20px;
-  display: flex; /* Usa flexbox para el diseño */
-  justify-content: space-between; /* Distribuye los elementos horizontalmente */
-  align-items: center; /* Centra verticalmente los elementos */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* Estilos para el título (h1) */
@@ -31,8 +31,6 @@ nav a {
   font-weight: bold;
   transition: color 0.3s ease;
 }
-
-/* Cambia el color del enlace cuando se pasa el ratón sobre él */
-nav a:hover {
-  color: #ffd700;
+img {
+  width: 100px;
 }
