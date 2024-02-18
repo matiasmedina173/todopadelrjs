@@ -1,7 +1,7 @@
 .cardProducto {
   background-color: #fff;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajuste del componente alfa */
   width: 15rem;
   padding: 1rem;
   margin: 1rem;
@@ -12,7 +12,7 @@
 }
 
 .cardProducto:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Ajuste del componente alfa */
 }
 
 .imgProducto {
@@ -26,8 +26,10 @@
 h3 {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
+  color: #333; /* Color de texto más oscuro */
 }
 
 p {
   margin: 0;
+  color: #555; /* Color de texto más claro */
 }
